@@ -1,0 +1,23 @@
+body {
+  background-color: #eeeeee;
+}
+#baslik,
+#baslik * {
+  background-color: #151515;
+
+  color: #a91d3a;
+}
+#baslik p {
+  color: #c73659;
+}
+h1,
+h2 {
+  font-family: "Cactus Classical Serif", serif;
+}
+p {
+  padding: 0%;
+  font-family: "Noto Sans", serif;
+}
+h3 {
+  color: #c73659;
+}
